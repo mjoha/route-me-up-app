@@ -1,0 +1,12 @@
+.route-creator-container {
+  position: absolute;
+  top: 5vh;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
